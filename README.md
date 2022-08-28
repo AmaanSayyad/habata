@@ -21,4 +21,4 @@ Berikut adalah team dalam pengembangan aplikasi Smotel:
 
 * Developer
   * [Putu Restu Indrawan](https://github.com/restuindrawan)
-  * [Rifqi Zein](https://github.com/Evan-Devara)
+  * [Rifqi Zein](https://github.com/IzaN32)
